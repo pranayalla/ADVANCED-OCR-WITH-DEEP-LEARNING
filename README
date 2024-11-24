@@ -8,7 +8,7 @@ Save the file with a .tsx extension, for example, ImageChatAI.tsx.
 2. Set Up a Development Environment:
 Ensure you have Node.js installed on your local machine. You can download it from nodejs.org.
 
-Install a package manager like npm or yarn if you don't have it already.
+Install a package manager like npm or yarn if you don't have it already
 
 3. Create a New React Project:
 Open a terminal or command prompt.
